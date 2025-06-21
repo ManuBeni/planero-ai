@@ -1,8 +1,8 @@
 [Leer en Español](README.es.md)
 
-# Planero-ai
+# Planer0
 
-Planero-ai is a local-first CLI tool that helps you create actionable plans using AI. It generates contextual planning questions, collects your responses, and outputs a Markdown checklist with tasks and subtasks to achieve any goal.
+Planer0 is a local-first CLI tool that helps you create actionable plans using AI. It generates contextual planning questions, collects your responses, and outputs a Markdown checklist with tasks and subtasks to achieve any goal.
 
 ---
 
